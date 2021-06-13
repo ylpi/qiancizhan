@@ -1,2 +1,3 @@
+include ':cardstackview'
 include ':app'
 rootProject.name = "qiancizhan"
